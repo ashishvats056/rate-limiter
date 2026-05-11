@@ -1,0 +1,18 @@
+.gitignore
+  d835bf53-df99-41cf-a803-650939c29d98:2026-05-02T17:03:36.764Z 2
+src/rate_limiter/__init__.py
+  d835bf53-df99-41cf-a803-650939c29d98:2026-05-02T17:05:58.016Z 1
+  d835bf53-df99-41cf-a803-650939c29d98:2026-05-02T18:59:27.048Z 3-4
+  d835bf53-df99-41cf-a803-650939c29d98:2026-05-02T19:05:45.163Z 5-7,9-15
+src/rate_limiter/base.py
+  d835bf53-df99-41cf-a803-650939c29d98:2026-05-02T18:58:35.696Z 1,3,6-7,9-12,14-17
+src/rate_limiter/fixed_window.py
+  d835bf53-df99-41cf-a803-650939c29d98:2026-05-02T18:59:02.270Z 1,3-4,6,9-12,15-17,19-20,22-26,28-30,32-34,36-38,40-45,47,49-50
+src/rate_limiter/leaky_bucket.py
+  d835bf53-df99-41cf-a803-650939c29d98:2026-05-02T19:03:53.040Z 1,3-4,6,9-12,15-17,19-20,22-23,25-28,30-39,41-43,45-48,50-53,55-60,62-63,65-66
+src/rate_limiter/sliding_window.py
+  d835bf53-df99-41cf-a803-650939c29d98:2026-05-02T19:03:14.734Z 1,3-4,6,9-11,13-16,18-22,24-26,28-30,32,34-36,38-40,42,44-45
+src/rate_limiter/token_bucket.py
+  d835bf53-df99-41cf-a803-650939c29d98:2026-05-02T19:03:34.981Z 1,3-4,6,9-12,15-17,19-22,24-33,35-37,39-42,44-47,49-54,56-57,59-60
+---
+{"schema_version": "authorship/3.0.0", "base_commit_sha": "HEAD~1", "prompts": {"d835bf53-df99-41cf-a803-650939c29d98:2026-05-02T17:03:36.764Z": {"agent_id": {"tool": "claude_code", "model": ""}, "human_author": "vats.ashish@razorpay.com", "accepted_lines": 1, "overriden_lines": 0}, "d835bf53-df99-41cf-a803-650939c29d98:2026-05-02T17:05:58.016Z": {"agent_id": {"tool": "claude_code", "model": ""}, "human_author": "vats.ashish@razorpay.com", "accepted_lines": 13, "overriden_lines": 0}, "d835bf53-df99-41cf-a803-650939c29d98:2026-05-02T18:59:27.048Z": {"agent_id": {"tool": "claude_code", "model": ""}, "human_author": "vats.ashish@razorpay.com", "accepted_lines": 13, "overriden_lines": 0}, "d835bf53-df99-41cf-a803-650939c29d98:2026-05-02T19:05:45.163Z": {"agent_id": {"tool": "claude_code", "model": ""}, "human_author": "vats.ashish@razorpay.com", "accepted_lines": 13, "overriden_lines": 0}, "d835bf53-df99-41cf-a803-650939c29d98:2026-05-02T18:58:35.696Z": {"agent_id": {"tool": "claude_code", "model": ""}, "human_author": "vats.ashish@razorpay.com", "accepted_lines": 12, "overriden_lines": 0}, "d835bf53-df99-41cf-a803-650939c29d98:2026-05-02T18:59:02.270Z": {"agent_id": {"tool": "claude_code", "model": ""}, "human_author": "vats.ashish@razorpay.com", "accepted_lines": 36, "overriden_lines": 0}, "d835bf53-df99-41cf-a803-650939c29d98:2026-05-02T19:03:53.040Z": {"agent_id": {"tool": "claude_code", "model": ""}, "human_author": "vats.ashish@razorpay.com", "accepted_lines": 50, "overriden_lines": 0}, "d835bf53-df99-41cf-a803-650939c29d98:2026-05-02T19:03:14.734Z": {"agent_id": {"tool": "claude_code", "model": ""}, "human_author": "vats.ashish@razorpay.com", "accepted_lines": 32, "overriden_lines": 0}, "d835bf53-df99-41cf-a803-650939c29d98:2026-05-02T19:03:34.981Z": {"agent_id": {"tool": "claude_code", "model": ""}, "human_author": "vats.ashish@razorpay.com", "accepted_lines": 46, "overriden_lines": 0}}}
